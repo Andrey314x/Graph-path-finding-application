@@ -1,0 +1,23 @@
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\bin\Debug\GraphPaths.exe.config
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\bin\Debug\GraphPaths.exe
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\bin\Debug\GraphPaths.pdb
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.AssemblyReference.cache
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.SuggestedBindingRedirects.cache
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.Properties.Resources.resources
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.GenerateResource.cache
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.CoreCompileInputs.cache
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.exe
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.pdb
+E:\Дискретная математика\Лаб 11\GraphPaths\GraphPaths\obj\Debug\GraphPaths.Form1.resources
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\bin\Debug\GraphPaths.exe.config
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\bin\Debug\GraphPaths.exe
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\bin\Debug\GraphPaths.pdb
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.AssemblyReference.cache
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.SuggestedBindingRedirects.cache
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.Form1.resources
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.Properties.Resources.resources
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.GenerateResource.cache
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.csproj.CoreCompileInputs.cache
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.exe
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.pdb
+E:\Дискретная математика\Лаб 11 Пути в орграфе\GraphPaths\GraphPaths\obj\Debug\GraphPaths.Form2.resources
